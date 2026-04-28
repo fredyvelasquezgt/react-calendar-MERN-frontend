@@ -12,6 +12,7 @@
 
 - [Project Description](#project-description)
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
 - [Redux Implementation](#redux-implementation)
@@ -21,7 +22,6 @@
 - [Project Structure](#project-structure)
 - [Patterns and Best Practices](#patterns-and-best-practices)
 - [Sustainability and Scalability](#sustainability-and-scalability)
-- [Screenshots](#screenshots)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
 
@@ -70,6 +70,25 @@ The frontend uses **Redux Toolkit** for centralized state management, ensuring p
 - Centralized calendar events state
 - Predictable state updates via actions/reducers
 - DevTools support for debugging
+
+---
+
+## 📸 Screenshots
+
+### Authentication Page
+
+![image](assets/Login.png)
+
+### Calendar View
+
+![image](assets/Calendar.png)
+
+### Event Modal
+![image](assets/Form.png)
+
+### Mobile Responsive
+
+![image](assets/Mobile.png)
 
 ---
 
@@ -475,25 +494,6 @@ const MyComponent = () => {
 - E2E testing (Cypress, Playwright)
 - Unit testing (Vitest, React Testing Library)
 ```
-
----
-
-## 📸 Screenshots
-
-### Authentication Page
-
-![image](assets/Login.png)
-
-### Calendar View
-
-![image](assets/Calendar.png)
-
-### Event Modal
-![image](assets/Form.png)
-
-### Mobile Responsive
-
-![image](assets/Mobile.png)
 
 ---
 
