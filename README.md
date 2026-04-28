@@ -481,19 +481,19 @@ const MyComponent = () => {
 ## 📸 Screenshots
 
 ### Authentication Page
-[Insert screenshot of login/register page here]
 
 ![image](assets/Login.png)
 
-
 ### Calendar View
-[Insert screenshot of main calendar here]
+
+![image](assets/Calendar.png)
 
 ### Event Modal
-[Insert screenshot of create/edit event modal here]
+![image](assets/Form.png)
 
 ### Mobile Responsive
-[Insert screenshot of mobile view here]
+
+![image](assets/Mobile.png)
 
 ---
 
