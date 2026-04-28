@@ -483,6 +483,9 @@ const MyComponent = () => {
 ### Authentication Page
 [Insert screenshot of login/register page here]
 
+![image](assets/Login.png)
+
+
 ### Calendar View
 [Insert screenshot of main calendar here]
 
